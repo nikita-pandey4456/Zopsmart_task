@@ -9,7 +9,7 @@ This project is built using Golang, Gofr and MongoDB. It provides a RESTful API 
 
 ### How to start the project?
 
-To run this code in visual studio code you have to write "go run main.go" the server will automatically start. Since I have also done the unit testing ,to run this write "go test main_test.go".
+To run this code in visual studio code you have to write "go run main.go" the server will automatically start. Since I have also done the unit testing ,to test this write "go test main_test.go".
 Postman collection for trying out apis is present in Postman_collection.json file.
 
 
